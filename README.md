@@ -1,5 +1,5 @@
 ## Hi there 👋
-### We are an Technical Club Focused on Peer to Peer Learning for the Student's of MES IMCC MCA .
+### We are a Technical Club at MES IMCC, focused on peer-to-peer learning and collaborative development.
 <!--
 **TechMitra-IMCC/TechMitra-IMCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
